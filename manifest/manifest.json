@@ -3,23 +3,23 @@
   "board": "KC868-A6",
   "channel": "stable",
   "latest": {
-    "version": "0.3.1",
-    "firmwareFile": "kiuun-edge-kc868a6-firmware-0.3.1.bin",
-    "url": "https://raw.githubusercontent.com/creaple/kiuun-edge-kc868a6-firmware/main/releases/kiuun-edge-kc868a6-firmware-0.3.1.bin",
-    "sha256": "7a6b59843fe04945529fde6dc9ff91d5da19c75089049e5b351506b020c20af3",
-    "sizeBytes": 1203568,
-    "releasedAt": "2026-03-20T07:27:53Z",
+    "version": "0.3.2",
+    "firmwareFile": "kiuun-edge-kc868a6-firmware-0.3.2.bin",
+    "url": "https://raw.githubusercontent.com/creaple/kiuun-edge-kc868a6-firmware/main/releases/kiuun-edge-kc868a6-firmware-0.3.2.bin",
+    "sha256": "288cb13d593e59e1f665aac295a32b9e529d1aecb322efb9d984dbbd8008df9c",
+    "sizeBytes": 1203888,
+    "releasedAt": "2026-03-20T08:21:27Z",
     "mandatory": false,
     "notes": ""
   },
   "releases": [
     {
-      "version": "0.3.1",
-      "firmwareFile": "kiuun-edge-kc868a6-firmware-0.3.1.bin",
-      "url": "https://raw.githubusercontent.com/creaple/kiuun-edge-kc868a6-firmware/main/releases/kiuun-edge-kc868a6-firmware-0.3.1.bin",
-      "sha256": "7a6b59843fe04945529fde6dc9ff91d5da19c75089049e5b351506b020c20af3",
-      "sizeBytes": 1203568,
-      "releasedAt": "2026-03-20T07:27:53Z",
+      "version": "0.3.2",
+      "firmwareFile": "kiuun-edge-kc868a6-firmware-0.3.2.bin",
+      "url": "https://raw.githubusercontent.com/creaple/kiuun-edge-kc868a6-firmware/main/releases/kiuun-edge-kc868a6-firmware-0.3.2.bin",
+      "sha256": "288cb13d593e59e1f665aac295a32b9e529d1aecb322efb9d984dbbd8008df9c",
+      "sizeBytes": 1203888,
+      "releasedAt": "2026-03-20T08:21:27Z",
       "mandatory": false,
       "notes": ""
     }
